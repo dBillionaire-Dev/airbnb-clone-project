@@ -106,3 +106,40 @@ A user-friendly design is **critical** to the success of a booking platform. Her
 - **Builds Trust**: Visually professional and predictable interactions build user confidence in the platform’s reliability and safety.
 - **Supports Accessibility**: Inclusive design ensures that users with disabilities can interact with the application effectively.
 - **Minimizes Support Requests**: When users can navigate easily, they are less likely to reach out for help, reducing support overhead.
+
+---
+
+## 🎨 UI/UX Design Planning
+
+### 🎨 **Color Styles**
+- **Primary Color**: `#FF5A5F` – Used for buttons, highlights, and key action elements.
+- **Secondary Color**: `#008489` – Used for supporting UI elements and accents.
+- **Background Color**: `#FFFFFF` – Clean and minimal background for high readability.
+- **Primary Text Color**: `#222222` – Used for main content and high-contrast readability.
+- **Secondary Text Color**: `#717171` – Used for subtext, hints, and supportive content.
+
+---
+
+### ✍️ **Typography**
+- **Primary Font**: Circular
+- **Headings**:
+  - Font Weight: Bold (`700`)
+  - Font Size: `24px` to `32px`
+- **Body Text**:
+  - Font Weight: Medium (`500`)
+  - Font Size: `16px`
+- **Secondary Text**:
+  - Font Weight: Book (`400`)
+  - Font Size: `14px`
+
+---
+
+### ❗ Importance of Identifying Design Properties
+
+Defining design properties from the mockup is essential for maintaining **visual consistency**, **development efficiency**, and **scalability** across the project. Here’s why:
+
+- ✅ **Consistency**: Shared styles ensure a uniform look and feel throughout the app, improving brand coherence and user trust.
+- 🛠️ **Developer Efficiency**: Defined tokens (colors, fonts, sizes) speed up the translation of designs into code, reducing guesswork.
+- 📱 **Responsiveness**: Pre-defined styles help maintain visual harmony across different devices and screen sizes.
+- 🧪 **Design-System Alignment**: Sets the foundation for a scalable design system and reusable components.
+- 🧠 **Better UX**: Thoughtfully chosen colors and type enhance readability, accessibility, and user engagement.

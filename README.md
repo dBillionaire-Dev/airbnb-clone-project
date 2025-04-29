@@ -143,3 +143,59 @@ Defining design properties from the mockup is essential for maintaining **visual
 - 📱 **Responsiveness**: Pre-defined styles help maintain visual harmony across different devices and screen sizes.
 - 🧪 **Design-System Alignment**: Sets the foundation for a scalable design system and reusable components.
 - 🧠 **Better UX**: Thoughtfully chosen colors and type enhance readability, accessibility, and user engagement.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+A successful project depends on effective collaboration across multiple disciplines. Below are the defined roles and their core responsibilities within the team:
+
+### 🧭 **Project Manager**
+- Oversees the overall execution of the project.
+- Manages timelines, deliverables, and team coordination.
+- Facilitates communication between cross-functional teams.
+- Resolves conflicts and ensures progress aligns with objectives.
+
+### 🖥️ **Frontend Developers**
+- Implement responsive UI components based on the design mockups.
+- Integrate APIs and handle client-side state management.
+- Ensure cross-browser compatibility and performance optimization.
+- Collaborate with designers to ensure accurate implementation.
+
+### 🖧 **Backend Developers**
+- Build and maintain the server-side logic and RESTful APIs.
+- Design and manage database schemas and relationships.
+- Implement security, authentication, and authorization systems.
+- Handle data integrity and API documentation.
+
+### 🎨 **Designers (UI/UX)**
+- Create wireframes, mockups, and interactive prototypes.
+- Define visual elements such as color schemes, typography, and spacing.
+- Ensure accessibility, intuitive navigation, and mobile responsiveness.
+- Conduct user research and incorporate feedback into design iterations.
+
+### 🧪 **QA/Testers**
+- Develop and execute manual and automated test cases.
+- Report bugs and verify bug fixes.
+- Ensure functional, performance, and security testing is thorough.
+- Work closely with developers to improve product quality.
+
+### ⚙️ **DevOps Engineers**
+- Set up and maintain CI/CD pipelines.
+- Manage server environments and cloud infrastructure.
+- Monitor application performance and ensure high availability.
+- Handle deployment processes and rollback strategies.
+
+### 👤 **Product Owner**
+- Defines product vision and prioritizes features in the backlog.
+- Aligns business goals with technical execution.
+- Works with the team to refine user stories and acceptance criteria.
+- Provides ongoing feedback to ensure product-market fit.
+
+### 🧑‍🏫 **Scrum Master**
+- Facilitates Agile ceremonies (daily standups, sprint planning, retrospectives).
+- Removes blockers and fosters a productive team environment.
+- Ensures the team adheres to Scrum practices and timelines.
+- Tracks velocity and supports continuous improvement.
+
+---

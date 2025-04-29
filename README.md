@@ -199,3 +199,53 @@ A successful project depends on effective collaboration across multiple discipli
 - Tracks velocity and supports continuous improvement.
 
 ---
+
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and maintainability in the user interface, the following UI components will be created and used across the application:
+
+### 🔝 Navbar
+- **Purpose**: Provides global navigation across the site.
+- **Features**:
+  - Brand logo linking to homepage.
+  - Navigation links (Home, Explore, Bookings, etc.).
+  - User profile dropdown (login/logout, settings).
+  - Responsive layout with mobile menu support.
+
+### 🏘️ Property Card
+- **Purpose**: Displays property listings in a grid or list format.
+- **Features**:
+  - Image carousel or thumbnail.
+  - Property title, price per night, and location.
+  - Rating and number of reviews.
+  - Bookmark or favorite button.
+
+### 📃 Footer
+- **Purpose**: Displays persistent information at the bottom of every page.
+- **Features**:
+  - Links to About, Contact, FAQs, Terms & Privacy.
+  - Social media icons.
+  - Copyright notice.
+
+### 🧾 Booking Form
+- **Purpose**: Collects booking details from users.
+- **Features**:
+  - Date pickers for check-in and check-out.
+  - Guest selector.
+  - Total cost summary.
+  - Submit button with loading state.
+
+### 🧭 Sidebar (optional)
+- **Purpose**: Filters or additional navigation for larger viewports.
+- **Features**:
+  - Filter by price range, amenities, room type, etc.
+  - Sort results by popularity, price, or ratings.
+
+### 📑 Modal/Dialog
+- **Purpose**: Provides overlay interface for login, property details, or confirmations.
+- **Features**:
+  - Accessible keyboard navigation.
+  - Dismiss on click outside or escape.
+  - Reusable for various interactions.
+
+---
